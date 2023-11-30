@@ -1,0 +1,19 @@
+.contenedor-principal {
+    border: solid 2px;
+    width: 80%;
+    padding: 10rem;
+    margin: 0 auto;
+}
+
+.heading-2 {
+    text-align: center;
+}
+
+.relleno {
+    text-align: center;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
