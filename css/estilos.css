@@ -1,3 +1,20 @@
+.header {
+    text-align: center;
+    background-color: blue;
+    -webkit-box-shadow: 1px 24px 54px 2px rgba(30,22,128,1);
+    -moz-box-shadow: 1px 24px 54px 2px rgba(30,22,128,1);
+    box-shadow: 1px 24px 54px 2px rgba(30,22,128,1);
+    padding: 2rem;
+    color: aliceblue;
+    height: 50%;
+}
+
+#master>nav>.enlaces {
+    text-decoration: none;
+    color:aliceblue;
+    font-size: 1.2rem;
+}
+
 .contenedor-principal {
     border: solid 2px;
     width: 80%;
@@ -16,21 +33,4 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-}
-
-.header {
-    text-align: center;
-    background-color: blue;
-    -webkit-box-shadow: 1px 24px 54px 2px rgba(30,22,128,1);
--moz-box-shadow: 1px 24px 54px 2px rgba(30,22,128,1);
-box-shadow: 1px 24px 54px 2px rgba(30,22,128,1);
-    padding: 2rem;
-    color: aliceblue;
-    height: 50%;
-}
-
-#master>nav>.enlaces {
-    text-decoration: none;
-    color:aliceblue;
-    font-size: 1.2rem;
 }
