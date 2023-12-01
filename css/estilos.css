@@ -18,6 +18,19 @@ body {
     text-align: center;
 }
 
-.header>header>h1 {
+.header>header {
     text-align: center;
+    background-color: blue;
+    -webkit-box-shadow: 1px 24px 54px 2px rgba(30,22,128,1);
+-moz-box-shadow: 1px 24px 54px 2px rgba(30,22,128,1);
+box-shadow: 1px 24px 54px 2px rgba(30,22,128,1);
+    padding: 2rem;
+    color: aliceblue;
+    height: 50%;
+}
+
+.header>header>nav>a {
+    text-decoration: none;
+    color:aliceblue;
+    font-size: 1.2rem;
 }
